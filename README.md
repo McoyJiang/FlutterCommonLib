@@ -7,3 +7,6 @@
 
 ### 屏幕适配
 [Flutter ScreenUtil](https://pub.dev/packages/flutter_screenutil)
+
+### 权限申请
+[Flutter Permissions](https://pub.dev/packages/permission_handler)
